@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# environment
+.env*
+!.env.example
+
+# ide
+.idea
+
+# build artifacts
+dist
+build
+
+# systems
+.DS_Store
